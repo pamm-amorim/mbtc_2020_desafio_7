@@ -1,5 +1,5 @@
 # MBTC 2020 - DESAFIO 7 - TNT
-Deafio 7 (TNT) da Maratona Behind the Code 2020 
+Deafio 7 (TNT) da Maratona Behind the Code 2020. Desafio envolvendo coleta de dados via protocolo MQTT, feature engineering, desenvolvimento e deployment de modelos de Machine Learning com Jupyter Notebooks.
 
 https://github.com/maratonadev-br/desafio-7-2020
 
